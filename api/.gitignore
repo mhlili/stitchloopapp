@@ -1,0 +1,6 @@
+node_modules
+# env files in general
+.env*
+
+# except the example
+!.env.example
